@@ -8,7 +8,7 @@
 	"icon": "icon.png",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/cmion/summer-code-vscode"
+		"url": "https://github.com/cmion/vscode-summer-code"
 	},
 	"engines": {
 		"vscode": "^1.27.2"
