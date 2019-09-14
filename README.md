@@ -1,5 +1,5 @@
 # Summer Code - VS Code theme
-![Summer Code Logo](https://github.com/cmion/summercode-vscode/raw/master/./icon.png)
+![Summer Code Logo](https://github.com/Cmion/vscode-summer-code/blob/master/icon.png)
 
 
 ## Installation
